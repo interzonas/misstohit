@@ -1,8 +1,6 @@
 MissToHit - B Falling rolling sliding activity - Cilinder
 ==============
 
-Descripción
-
 
 <p align="center">
   <img src="images/cylinder_cavities.png" width="350"/>
