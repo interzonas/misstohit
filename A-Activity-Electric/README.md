@@ -1,14 +1,10 @@
-MissToHit - B Falling rolling sliding activity - Cilinder
+MissToHit - A Electric Current
 ==============
 
 Descripción
 
 
-<p align="center">
-  <img src="images/cylinder_cavities.png" width="350"/>
-  <img src="images/cylinder_cavities_cone.png" width="350"/>
-  <img src="images/cylinder_cap.png" width="350"/>
-</p>
+
 
 ## OpenScad ##
 For the design of these pieces we have used the Openscad software. Openscad is free software, it is built by the community. It has a strong use in community makers.
