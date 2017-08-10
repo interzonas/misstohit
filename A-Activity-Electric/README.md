@@ -12,7 +12,7 @@ For the design of these pieces we have used the Openscad software. Openscad is f
 OpenScad allows to make a parametric design, allowing the improvement of the pieces in a simple way.
 
 
-## Uso ##
+## Use ##
 The use is simple. It's a cross-platform software you can download [here](http://www.openscad.org/). If you open the file with the part code the Openscad viewer will render the piece. Once rendered you will be able to export this piece to the most convinient format, STL is the standard of most 3D printers.
 
 We have created a "stl" directory with some stable versions of these pieces.
