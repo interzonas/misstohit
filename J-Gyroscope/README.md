@@ -11,7 +11,7 @@ OBJECT ONE
 
 
 OBJECT TWO
-<p align="center"
+<p align="center">
   <img src="images/ob1-1.png" width="350" height="240"/>
   <img src="images/ob1-2.png" width="350" height="240"/>
 </p>
