@@ -4,16 +4,16 @@ MissToHit - J Gyroscope
 
 OBJECT ONE
 <p align="center">
-  <img src="images/ob1-1.png" width="350" height="240"/>
-  <img src="images/ob1-2.png" width="350" height="240"/>
+<img src="images/ob2-1.png" width="350" height="240"/>
+<img src="images/ob2-2.png" width="350" height="240"/>
 </p>
 
 
 
 OBJECT TWO
-<p align="center">
-  <img src="images/ob2-1.png" width="350" height="240"/>
-  <img src="images/ob2-2.png" width="350" height="240"/>
+<p align="center"
+  <img src="images/ob1-1.png" width="350" height="240"/>
+  <img src="images/ob1-2.png" width="350" height="240"/>
 </p>
 
 
